@@ -1,0 +1,300 @@
+{
+  "home": {
+    "title": "Mazzi",
+    "subtitle": "Scegli una categoria per vedere i mazzi"
+  },
+  "categories": {
+    "Get to know you": "Conosciamoci meglio",
+    "Edgy vibes": "Vibrazioni piccanti",
+    "Family talks": "Dialoghi familiari",
+    "Work mood": "Atmosfera lavorativa",
+    "Hot takes": "Opinioni controverse"
+  },
+  "subcategories": {
+    "This or That": "Questo o quello",
+    "Light Questions": "Domande leggere",
+    "Moderate Questions": "Domande moderate",
+    "In-depth Questions": "Domande approfondite",
+    "Love Couples": "Coppie innamorate",
+    "This or That (Spicy)": "Questo o quello (Piccante)",
+    "Bold Questions (Spicy)": "Domande audaci (Piccante)",
+    "This or That (Funny)": "Questo o quello (Divertente)",
+    "Bold Questions (Funny)": "Domande audaci (Divertente)",
+    "Parent Perspective": "Prospettiva genitoriale",
+    "Child Perspective": "Prospettiva dei figli",
+    "Sibling Perspective": "Prospettiva fraterna",
+    "Grandparent Perspective": "Prospettiva dei nonni",
+    "Values & Culture": "Valori e cultura",
+    "Challenges & Experiences": "Sfide ed esperienze",
+    "Never Have I Ever": "Non ho mai",
+    "Truth or Dare": "Obbligo o verità",
+    "Would You Rather": "Cosa preferiresti?",
+    "Debate Sparks": "Scintille di dibattito"
+  },
+  "content": {
+    "questionCount": "{{count}} domanda/e",
+    "playButton": "Genera",
+    "unlockButton": "Sblocca",
+    "about": "INFO",
+    "format": "FORMATO"
+  },
+  "generator": {
+    "restart": "Ricomincia",
+    "allComplete": "È tutto! Hai visto tutte le domande.",
+    "restartModal": {
+      "title": "Ricomincia domande",
+      "description": "Hai visto tutte le domande in questa categoria. Vuoi ricominciare e rivederle?",
+      "cancel": "Annulla",
+      "confirm": "Ricomincia"
+    }
+  },
+  "shuffle": {
+    "title": "Casuale",
+    "description": "Non riesci a decidere quale categoria esplorare? Lascia che la funzione casuale ti sorprenda! Premi genera per ottenere una domanda di conversazione casuale da qualsiasi categoria - perfetto per mantenere le cose spontanee ed emozionanti.",
+    "about": "INFO",
+    "format": "FORMATO",
+    "formatDescription": "Domande casuali da tutte le categorie. Usa i filtri per personalizzare la tua esperienza selezionando categorie e sottocategorie specifiche che vuoi includere.",
+    "startButton": "Inizia",
+    "selectCategories": "Seleziona almeno una categoria"
+  },
+  "shuffleSession": {
+    "title": "Casuale",
+    "filters": "Filtri",
+    "filterItems": "Filtra elementi",
+    "noFilters": "Nessuna categoria selezionata",
+    "selectAtLeastOne": "Seleziona almeno una categoria per continuare",
+    "restartModal": {
+      "title": "Ricomincia casuale",
+      "description": "Hai visto tutte le domande nelle categorie selezionate. Vuoi ricominciare e rivederle?",
+      "cancel": "Annulla",
+      "confirm": "Ricomincia"
+    },
+    "filtersModal": {
+      "title": "Filtri",
+      "selectAll": "Seleziona tutto",
+      "deselectAll": "Deseleziona tutto",
+      "reset": "Ripristina",
+      "apply": "Applica",
+      "applyClose": "Applica e chiudi",
+      "close": "Chiudi",
+      "resetConfirm": {
+        "title": "Ripristina filtri",
+        "description": "Sei sicuro di voler ripristinare tutti i filtri? Questo deselezionerà tutte le categorie.",
+        "cancel": "Annulla",
+        "confirm": "Ripristina"
+      }
+    }
+  },
+  "favorites": {
+    "title": "Preferiti",
+    "empty": {
+      "title": "Nessun preferito ancora",
+      "description": "Salva le tue domande preferite toccando l'icona del cuore mentre giochi."
+    },
+    "questionCount": "{{count}} domanda/e",
+    "playButton": "Gioca",
+    "deleteModal": {
+      "title": "Elimina preferiti",
+      "description": "Sei sicuro di voler eliminare tutti i preferiti da questa categoria? Questa azione non può essere annullata.",
+      "cancel": "Annulla",
+      "confirm": "Elimina"
+    },
+    "deleteItemModal": {
+      "title": "Elimina elemento",
+      "description": "Sei sicuro di voler eliminare questo elemento? Questa azione non può essere annullata",
+      "keep": "Mantieni"
+    }
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "appearance": {
+      "title": "Aspetto",
+      "theme": "Cambia tema",
+      "themeValue": {
+        "dark": "Scuro",
+        "light": "Chiaro",
+        "system": "Sistema"
+      }
+    },
+    "general": {
+      "title": "Generale",
+      "language": "Lingua dell'app",
+      "languageValue": {
+        "english": "Inglese",
+        "spanish": "Spagnolo",
+        "italian": "Italiano",
+        "german": "Tedesco"
+      }
+    },
+    "support": {
+      "title": "Supporto",
+      "feedback": "Invia feedback",
+      "rate": "Valutaci sull'App Store"
+    },
+    "version": "Versione"
+  },
+  "settingsLanguage": {
+    "title": "Lingua dell'app",
+    "description": "Cambia la lingua dell'app e tutti i contenuti.",
+    "english": "Inglese",
+    "spanish": "Spagnolo",
+    "italian": "Italiano",
+    "german": "Tedesco",
+    "changeToast": "Lingua cambiata in {{language}}"
+  },
+  "settingsTheme": {
+    "title": "Tema",
+    "description": "Scegli il tuo tema preferito.",
+    "dark": "Scuro",
+    "light": "Chiaro",
+    "system": "Sistema",
+    "changeToast": "Tema cambiato in {{theme}}"
+  },
+  "settingsFeedback": {
+    "title": "Come possiamo migliorare?",
+    "description": "Facci sapere come possiamo migliorare il prodotto o cosa",
+    "descriptionBold": "vorresti vedere in futuro.",
+    "placeholder": "Scrivi qualsiasi cosa...",
+    "charactersLeft": "{{count}} caratteri rimasti",
+    "sendButton": "Invia feedback",
+    "successToast": "Feedback inviato con successo!",
+    "errorToast": "Impossibile inviare il feedback"
+  },
+  "toast": {
+    "addedToFavorites": "Aggiunto ai preferiti",
+    "removedFromFavorites": "Rimosso dai preferiti",
+    "languageChanged": "Lingua cambiata",
+    "themeChanged": "Tema cambiato"
+  },
+  "bottomNav": {
+    "decks": "Mazzi",
+    "shuffle": "Casuale",
+    "favs": "Preferiti",
+    "settings": "Impostazioni"
+  },
+  "rotateDevice": {
+    "title": "Ruota il tuo dispositivo",
+    "description": "Questa app è progettata solo per la modalità verticale. Ruota il tuo dispositivo per continuare."
+  },
+  "desktopWarning": {
+    "title": "Dispositivo mobile richiesto",
+    "description": "Lummy è progettato per dispositivi mobili. Apri questa app sul tuo smartphone per la migliore esperienza."
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "confirm": "Conferma",
+    "exit": "Esci",
+    "continue": "Continua"
+  },
+  "exitModal": {
+    "title": "Esci",
+    "description": "Sei sicuro di voler uscire da questa sessione?"
+  },
+  "paywall": {
+    "unlimited": "Illimitato",
+    "restore": "Ripristina",
+    "pickPlan": "Scegli il tuo piano",
+    "description": "Generazioni infinite di domande, tutte le categorie sbloccate, nessun limite.",
+    "premium": {
+      "title": "Premium",
+      "price": "$ 3,99 / mese",
+      "renewalText": "Il tuo piano si rinnova mensilmente a meno che non lo annulli.",
+      "cancelText": "Puoi annullare in qualsiasi momento."
+    },
+    "lifetime": {
+      "title": "A vita",
+      "price": "$ 14,99 pagamento unico",
+      "onetimeText": "Pagamento unico. Accesso a vita.",
+      "noSubscription": "Nessun abbonamento."
+    },
+    "continue": "Continua",
+    "purchaseSuccess": {
+      "premium": "Abbonamento Premium attivato! 🎉",
+      "lifetime": "Accesso a vita sbloccato! 🎉"
+    }
+  },
+  "subcategoryDescriptions": {
+    "shuffle": {
+      "about": "Un mix completamente casuale di domande da tutte le categorie e stati d'animo. Non sai mai cosa verrà dopo: potrebbe essere divertente, profondo, piccante o riflessivo. Perfetto per gruppi che vogliono varietà e spontaneità.",
+      "format": "Funziona per 2–15 persone. Estrazione casuale da tutti i tipi di domande. Tieni tutti a indovinare, mantieni alta l'energia."
+    },
+    "This or That": {
+      "about": "Domande rapide e giocose di questo o quello che rivelano preferenze e personalità in pochi secondi. Perfette per rompere il ghiaccio e scoprire cosa fa funzionare qualcuno attraverso scelte semplici ma rivelatrici.",
+      "format": "Ideale per 2–8 persone. Domande facili, casuali, senza pressione. Nessuna ansia, solo conversazione divertente."
+    },
+    "Light Questions": {
+      "about": "Domande calde e accessibili che mantengono le cose amichevoli e comode. Ottimo per conoscere qualcuno senza andare troppo in profondità troppo velocemente.",
+      "format": "Perfetto per 2–10 persone. Argomenti leggeri, condivisione facile. Spazio sicuro per aprirsi al proprio ritmo."
+    },
+    "Moderate Questions": {
+      "about": "Un passo più profondo della chiacchiera. Queste domande invitano a storie significative, opinioni ed esperienze senza diventare troppo pesanti.",
+      "format": "Meglio per 2–8 persone. Profondità media, risposte ponderate. Buon equilibrio tra divertimento e sostanza."
+    },
+    "In-depth Questions": {
+      "about": "Per quando sei pronto ad andare oltre la superficie. Queste domande esplorano valori, lezioni di vita e riflessioni più profonde che rivelano chi è veramente qualcuno.",
+      "format": "Funziona meglio con 2–6 persone. Argomenti più profondi, conversazioni più lunghe. Crea fiducia e connessione reale."
+    },
+    "Love Couples": {
+      "about": "Progettate specificamente per le coppie per approfondire l'intimità, esplorare sogni insieme e avere quelle conversazioni dolci o difficili che rafforzano le relazioni.",
+      "format": "Fatto per 2 persone (coppie). Domande intime, condivisione onesta. Costruisci vicinanza e comprensione."
+    },
+    "Parent Perspective": {
+      "about": "Domande dal punto di vista dei genitori: esplorare stili genitoriali, valori da tramandare e le gioie e le sfide di crescere i figli.",
+      "format": "Ottimo per 2–8 persone. Argomenti incentrati sui genitori. Condividi saggezza, ridi del caos, legati nel viaggio."
+    },
+    "Child Perspective": {
+      "about": "Guardando indietro ai ricordi d'infanzia, momenti divertenti e la lente unica dell'essere un bambino. La nostalgia incontra la narrazione giocosa.",
+      "format": "Perfetto per 2–10 persone. Ricordi d'infanzia, storie sciocche. Rivivi insieme i bei vecchi tempi."
+    },
+    "Sibling Perspective": {
+      "about": "Tutto sulle dinamiche tra fratelli: scherzi interni, lotte epiche e il legame caotico che solo fratelli e sorelle capiscono.",
+      "format": "Meglio per 2–6 persone. Storie specifiche di fratelli. Ridi della rivalità, celebra il legame."
+    },
+    "Grandparent Perspective": {
+      "about": "Onorare la saggezza, l'umorismo e le storie dei nonni. Domande che scatenano connessione intergenerazionale e consigli senza tempo.",
+      "format": "Ideale per 2–8 persone. Condivisione multigenerazionale. Colma il divario, custodisci le storie."
+    },
+    "This or That (Funny)": {
+      "about": "Scenari ridicoli di questo o quello che non hanno senso ma scatenano grandi risate. Aspettati assurdità, aspettati caos, aspettati divertimento.",
+      "format": "Perfetto per 2–12 persone. Scelte sciocche, reazioni rumorose. Zero serietà, massimo intrattenimento."
+    },
+    "Bold Questions (Funny)": {
+      "about": "Domande esilaranti e leggermente audaci che fanno ridere a crepapelle. Non offensive, solo abbastanza audaci da mantenere le cose selvagge.",
+      "format": "Meglio per 2–10 persone. Umorismo audace, confessioni divertenti. Spingi i limiti, fai ridere tutti."
+    },
+    "This or That (Spicy)": {
+      "about": "Domande civettuole e provocatorie di questo o quello che alzano la temperatura. Per adulti pronti a esplorare attrazione, intimità e chimica.",
+      "format": "Solo adulti, 2–8 persone. Argomenti piccanti, menti aperte. Flirta, stuzzica e metti alla prova i confini."
+    },
+    "Bold Questions (Spicy)": {
+      "about": "Domande senza scuse dirette su sesso, desiderio e intimità. Per pubblico maturo che vuole conversazioni crude e oneste.",
+      "format": "Solo adulti, 2–6 persone. Contenuto esplicito, nessun filtro. Sii onesto, sii audace, sii rispettoso."
+    },
+    "Values & Culture": {
+      "about": "Immergiti nei valori lavorativi, nella cultura del team e in ciò che ti spinge professionalmente. Ottimo per i team che costruiscono fiducia e allineamento.",
+      "format": "Perfetto per 2–15 persone. Valori incentrati sul lavoro. Rafforza la cultura del team, trova un terreno comune."
+    },
+    "Challenges & Experiences": {
+      "about": "Parlare onestamente di sfide professionali, momenti di crescita e lezioni imparate nel modo difficile. La vulnerabilità incontra la saggezza professionale.",
+      "format": "Meglio per 2–10 persone. Esperienze lavorative, riflessioni oneste. Impara dagli altri, cresci insieme."
+    },
+    "Never Have I Ever": {
+      "about": "Il gioco classico di rivelare cosa hai fatto (o non hai fatto). Aspettati confessioni, sorprese e molti momenti 'Aspetta, davvero?!'.",
+      "format": "Ottimo per 3–12 persone. A turno leggete, alzate la mano se l'avete fatto. Semplice, coinvolgente, rivelatore."
+    },
+    "Debate Sparks": {
+      "about": "Argomenti caldi e opinioni polarizzanti progettati per far appassionare le persone (in senso buono). Difendi la tua posizione, ascolta l'altra parte.",
+      "format": "Meglio per 4–12 persone. Scegli una parte, dibatti con rispetto. Discussione appassionata, menti aperte."
+    },
+    "Would You Rather": {
+      "about": "Scelte impossibili che ti fanno valutare compromessi difficili. Divertente, filosofico o decisamente brutale: ogni risposta dice qualcosa.",
+      "format": "Perfetto per 2–10 persone. Scegli tra due opzioni, spiega perché. Round veloci o discussioni profonde."
+    },
+    "Truth or Dare": {
+      "about": "Il gioco di festa senza tempo di rivelare verità o affrontare sfide folli. Aspettati risate, imbarazzo e momenti indimenticabili.",
+      "format": "Meglio per 3–10 persone. Scegli Verità o Sfida, completa la sfida. Mantienilo divertente, mantienilo sicuro."
+    }
+  }
+}

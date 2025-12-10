@@ -1,0 +1,300 @@
+{
+  "home": {
+    "title": "Decks",
+    "subtitle": "Pick a category to see the decks"
+  },
+  "categories": {
+    "Get to know you": "Get to know you",
+    "Edgy vibes": "Edgy vibes",
+    "Family talks": "Family talks",
+    "Work mood": "Work mood",
+    "Hot takes": "Hot takes"
+  },
+  "subcategories": {
+    "This or That": "This or That",
+    "Light Questions": "Light Questions",
+    "Moderate Questions": "Moderate Questions",
+    "In-depth Questions": "In-depth Questions",
+    "Love Couples": "Love Couples",
+    "This or That (Spicy)": "This or That (Spicy)",
+    "Bold Questions (Spicy)": "Bold Questions (Spicy)",
+    "This or That (Funny)": "This or That (Funny)",
+    "Bold Questions (Funny)": "Bold Questions (Funny)",
+    "Parent Perspective": "Parent Perspective",
+    "Child Perspective": "Child Perspective",
+    "Sibling Perspective": "Sibling Perspective",
+    "Grandparent Perspective": "Grandparent Perspective",
+    "Values & Culture": "Values & Culture",
+    "Challenges & Experiences": "Challenges & Experiences",
+    "Never Have I Ever": "Never Have I Ever",
+    "Truth or Dare": "Truth or Dare",
+    "Would You Rather": "Would You Rather",
+    "Debate Sparks": "Debate Sparks"
+  },
+  "content": {
+    "questionCount": "{{count}} question{{plural}}",
+    "playButton": "Generate",
+    "unlockButton": "Unlock",
+    "about": "ABOUT",
+    "format": "FORMAT"
+  },
+  "generator": {
+    "restart": "Restart",
+    "allComplete": "That's all! You've seen every question.",
+    "restartModal": {
+      "title": "Restart questions",
+      "description": "You've seen all questions in this category. Want to restart and go through them again?",
+      "cancel": "Cancel",
+      "confirm": "Restart"
+    }
+  },
+  "shuffle": {
+    "title": "Shuffle",
+    "description": "Can't decide which category to explore? Let the shuffle feature surprise you! Press generate to get a random conversation starter from any category - perfect for keeping things spontaneous and exciting.",
+    "about": "ABOUT",
+    "format": "FORMAT",
+    "formatDescription": "Random questions from all categories. Use filters to customize your shuffle experience by selecting specific categories and subcategories you want to include.",
+    "startButton": "Start",
+    "selectCategories": "Select at least one category"
+  },
+  "shuffleSession": {
+    "title": "Shuffle",
+    "filters": "Filters",
+    "filterItems": "Filter items",
+    "noFilters": "No categories selected",
+    "selectAtLeastOne": "Please select at least one category to continue",
+    "restartModal": {
+      "title": "Restart shuffle",
+      "description": "You've seen all questions in the selected categories. Want to restart and go through them again?",
+      "cancel": "Cancel",
+      "confirm": "Restart"
+    },
+    "filtersModal": {
+      "title": "Filters",
+      "selectAll": "Select all",
+      "deselectAll": "Deselect all",
+      "reset": "Reset",
+      "apply": "Apply",
+      "applyClose": "Apply & Close",
+      "close": "Close",
+      "resetConfirm": {
+        "title": "Reset filters",
+        "description": "Are you sure you want to reset all filters? This will deselect all categories.",
+        "cancel": "Cancel",
+        "confirm": "Reset"
+      }
+    }
+  },
+  "favorites": {
+    "title": "Favs",
+    "empty": {
+      "title": "No favorites yet",
+      "description": "Save your favorite questions by tapping the heart icon while playing."
+    },
+    "questionCount": "{{count}} question{{plural}}",
+    "playButton": "Play",
+    "deleteModal": {
+      "title": "Delete favorites",
+      "description": "Are you sure you want to delete all favorites from this category? This action cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    },
+    "deleteItemModal": {
+      "title": "Delete item",
+      "description": "Are you sure you want to delete this item? This action can't be undone",
+      "keep": "Keep"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": {
+      "title": "Appearance",
+      "theme": "Change theme",
+      "themeValue": {
+        "dark": "Dark",
+        "light": "Light",
+        "system": "System"
+      }
+    },
+    "general": {
+      "title": "General",
+      "language": "App language",
+      "languageValue": {
+        "english": "English",
+        "spanish": "Spanish",
+        "italian": "Italian",
+        "german": "German"
+      }
+    },
+    "support": {
+      "title": "Support",
+      "feedback": "Send feedback",
+      "rate": "Rate us on the App Store"
+    },
+    "version": "Version"
+  },
+  "settingsLanguage": {
+    "title": "App language",
+    "description": "Change the app language and all outputs.",
+    "english": "English",
+    "spanish": "Spanish",
+    "italian": "Italian",
+    "german": "German",
+    "changeToast": "Language changed to {{language}}"
+  },
+  "settingsTheme": {
+    "title": "Theme",
+    "description": "Choose your preferred theme.",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "changeToast": "Theme changed to {{theme}}"
+  },
+  "settingsFeedback": {
+    "title": "How can we improve?",
+    "description": "Let us know how can we make the product better or what",
+    "descriptionBold": "you would like to see in the future.",
+    "placeholder": "Type anything...",
+    "charactersLeft": "{{count}} characters left",
+    "sendButton": "Send feedback",
+    "successToast": "Feedback sent successfully!",
+    "errorToast": "Failed to send feedback"
+  },
+  "toast": {
+    "addedToFavorites": "Added to favorites",
+    "removedFromFavorites": "Removed from favorites",
+    "languageChanged": "Language changed",
+    "themeChanged": "Theme changed"
+  },
+  "bottomNav": {
+    "decks": "Decks",
+    "shuffle": "Shuffle",
+    "favs": "Favs",
+    "settings": "Settings"
+  },
+  "rotateDevice": {
+    "title": "Please Rotate Your Device",
+    "description": "This app is designed for portrait mode only. Please rotate your device to continue."
+  },
+  "desktopWarning": {
+    "title": "Mobile Device Required",
+    "description": "Lummy is designed for mobile devices. Please open this app on your smartphone for the best experience."
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "exit": "Exit",
+    "continue": "Continue"
+  },
+  "exitModal": {
+    "title": "Exit",
+    "description": "Are you sure you want exit this session?"
+  },
+  "paywall": {
+    "unlimited": "Unlimited",
+    "restore": "Restore",
+    "pickPlan": "Pick your plan",
+    "description": "Endless generations of questions, all categories unlocked, no limits.",
+    "premium": {
+      "title": "Premium",
+      "price": "$ 3.99 / month",
+      "renewalText": "Your plan renews monthly unless you cancel.",
+      "cancelText": "You can cancel anytime."
+    },
+    "lifetime": {
+      "title": "Lifetime",
+      "price": "$ 14.99 pay once",
+      "onetimeText": "One-time payment. Lifetime access.",
+      "noSubscription": "No subscription."
+    },
+    "continue": "Continue",
+    "purchaseSuccess": {
+      "premium": "Premium subscription activated! 🎉",
+      "lifetime": "Lifetime access unlocked! 🎉"
+    }
+  },
+  "subcategoryDescriptions": {
+    "shuffle": {
+      "about": "A completely random mix of questions from all categories and moods. You never know what's coming next—could be fun, deep, spicy, or reflective. Perfect for groups who want variety and spontaneity.",
+      "format": "Works for 2–15 people. Random pull from all question types. Keep everyone guessing, keep the energy high."
+    },
+    "This or That": {
+      "about": "Quick, playful either/or questions that reveal preferences and personality in seconds. Perfect for breaking the ice and discovering what makes someone tick through simple but telling choices.",
+      "format": "Ideal for 2–8 people. Easy, casual, low-stakes questions. No pressure, just fun conversation."
+    },
+    "Light Questions": {
+      "about": "Warm, approachable questions that keep things friendly and comfortable. Great for getting to know someone without diving too deep too fast.",
+      "format": "Perfect for 2–10 people. Light topics, easy sharing. Safe space to open up at your own pace."
+    },
+    "Moderate Questions": {
+      "about": "A step deeper than small talk. These questions invite meaningful stories, opinions, and experiences without getting too heavy.",
+      "format": "Best for 2–8 people. Medium depth, thoughtful answers. Good balance between fun and substance."
+    },
+    "In-depth Questions": {
+      "about": "For when you're ready to go beneath the surface. These questions explore values, life lessons, and deeper reflections that reveal who someone truly is.",
+      "format": "Works best with 2–6 people. Deeper topics, longer conversations. Build trust and real connection."
+    },
+    "Love Couples": {
+      "about": "Designed specifically for couples to deepen intimacy, explore dreams together, and have those sweet or tough conversations that strengthen relationships.",
+      "format": "Made for 2 people (couples). Intimate questions, honest sharing. Build closeness and understanding."
+    },
+    "Parent Perspective": {
+      "about": "Questions from the parent's point of view—exploring parenting styles, values to pass down, and the joys and challenges of raising kids.",
+      "format": "Great for 2–8 people. Parent-focused topics. Share wisdom, laugh at chaos, bond over the journey."
+    },
+    "Child Perspective": {
+      "about": "Looking back at childhood memories, funny moments, and the unique lens of being a kid. Nostalgia meets playful storytelling.",
+      "format": "Perfect for 2–10 people. Childhood memories, silly stories. Relive the good old days together."
+    },
+    "Sibling Perspective": {
+      "about": "All about sibling dynamics—inside jokes, epic fights, and the chaotic bond that only brothers and sisters understand.",
+      "format": "Best for 2–6 people. Sibling-specific stories. Laugh at the rivalry, celebrate the bond."
+    },
+    "Grandparent Perspective": {
+      "about": "Honoring the wisdom, humor, and stories of grandparents. Questions that spark cross-generational connection and timeless advice.",
+      "format": "Ideal for 2–8 people. Multi-generational sharing. Bridge the gap, treasure the stories."
+    },
+    "This or That (Funny)": {
+      "about": "Ridiculous either/or scenarios that make no sense but spark huge laughs. Expect absurdity, expect chaos, expect fun.",
+      "format": "Perfect for 2–12 people. Silly choices, loud reactions. Zero seriousness, maximum entertainment."
+    },
+    "Bold Questions (Funny)": {
+      "about": "Hilariously cheeky questions that bring the laughs. Not offensive, just bold enough to keep things wild.",
+      "format": "Best for 2–10 people. Bold humor, funny confessions. Push the edge, make everyone laugh."
+    },
+    "This or That (Spicy)": {
+      "about": "Flirty, provocative either/or questions that turn up the heat. For adults ready to explore attraction, intimacy, and chemistry.",
+      "format": "Adults only, 2–8 people. Spicy topics, open minds. Flirt, tease, and test boundaries."
+    },
+    "Bold Questions (Spicy)": {
+      "about": "Unapologetically direct questions about sex, desire, and intimacy. For mature audiences who want raw, honest conversations.",
+      "format": "Adults only, 2–6 people. Explicit content, no filter. Be honest, be bold, be respectful."
+    },
+    "Values & Culture": {
+      "about": "Dive into work values, team culture, and what drives you professionally. Great for teams building trust and alignment.",
+      "format": "Perfect for 2–15 people. Work-focused values. Strengthen team culture, find common ground."
+    },
+    "Challenges & Experiences": {
+      "about": "Real talk about career challenges, growth moments, and lessons learned the hard way. Vulnerability meets professional wisdom.",
+      "format": "Best for 2–10 people. Work experiences, honest reflections. Learn from each other, grow together."
+    },
+    "Never Have I Ever": {
+      "about": "The classic game of revealing what you've done (or haven't). Expect confessions, surprises, and lots of 'Wait, really?!' moments.",
+      "format": "Great for 3–12 people. Take turns reading, raise hand if you've done it. Simple, addictive, revealing."
+    },
+    "Debate Sparks": {
+      "about": "Hot topics and polarizing opinions designed to get people fired up (in a good way). Defend your stance, hear the other side.",
+      "format": "Best for 4–12 people. Pick a side, debate respectfully. Passionate discussion, open minds."
+    },
+    "Would You Rather": {
+      "about": "Impossible choices that make you weigh tough trade-offs. Funny, philosophical, or downright brutal—every answer says something.",
+      "format": "Perfect for 2–10 people. Choose between two options, explain why. Quick rounds or deep discussions."
+    },
+    "Truth or Dare": {
+      "about": "The timeless party game of revealing truths or taking on wild challenges. Expect laughter, embarrassment, and unforgettable moments.",
+      "format": "Best for 3–10 people. Pick Truth or Dare, complete the challenge. Keep it fun, keep it safe."
+    }
+  }
+}
