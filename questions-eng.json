@@ -54,7 +54,7 @@
       "Walking or running?",
       "Fruits or veggies?",
       "Earbuds or headphones?",
-      "Math or science?",
+      "Math or science?"
     ],
     "Light Questions": [
       "What was your favorite cartoon as a kid?",
@@ -156,7 +156,7 @@
       "What would be your preferred way to start the day?",
       "What's a recent purchase you regret?",
       "What's your preferred brand of deodorant?",
-      "Have you ever cut your own hair?",
+      "Have you ever cut your own hair?"
     ],
     "Moderate Questions": [
       "What's the best trip you've ever taken?",
@@ -277,7 +277,7 @@
       "What's something you're interested in that most people aren't?",
       "How often do you ask for help?",
       "What's one thing you like about the person to your right?",
-      "What's an answer you wish you had right now?",
+      "What's an answer you wish you had right now?"
     ],
     "In-depth Questions": [
       "What life lesson took you the longest to learn?",
@@ -355,7 +355,7 @@
       "If you had to relive one day of your life forever, which day would it be?",
       "What's something you've changed your mind about recently?",
       "What's one thing you would never change about yourself?",
-      "What's something you looked forward to for a long time but didn't meet your expectations?",
+      "What's something you looked forward to for a long time but didn't meet your expectations?"
     ],
     "Love Couples": [
       "What's something I do that instantly makes you feel at home?",
@@ -393,7 +393,7 @@
       "Where will we be in 5 years?",
       "What's something you admire about how we handle conflict?",
       "What's a future challenge or fear you'd want to face with me?"
-    ]
+    ],
   },
   "Edgy vibes": {
     "This or That (Spicy)": [
